@@ -1,0 +1,6 @@
+{
+  "name": "Meal Timing & Interval Tracker",
+  "description": "Comprehensive meal timing, interval gap tracking, timeline visualization, macro nutrition tracking, and multi-profile meal management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
